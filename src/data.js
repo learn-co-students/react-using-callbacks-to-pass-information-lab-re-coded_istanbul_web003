@@ -1,4 +1,4 @@
-// var defaultValues = (() => Array(100).fill(Array(100).fill('#F00')))()
+//var defaultValues = (() => Array(100).fill(Array(100).fill('#F00')))()
 
 // How the pixel matrix was made from the png
 // var rgbToHex = function (rgb) { 
